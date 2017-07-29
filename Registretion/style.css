@@ -1,0 +1,20 @@
+
+.invalid {
+	
+	 color:#ec3f41;
+	}
+	.valid {
+
+	 color:#3a7d34;
+	}
+        
+#pswd_info {
+ display:none;
+   position: absolute;
+}
+a:hover #pswd_info{
+	display: block;
+}
+.error{
+  color: red;
+}
